@@ -1,0 +1,15 @@
+name: eo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pystac-client
+  - pandas
+  - matplotlib
+  - leafmap
+  - geopandas
+  - pydantic
+  - tqdm
+  - ca-certificates
+  - openssl
+prefix: /home/rustt/miniforge3/envs/eo

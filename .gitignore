@@ -13,6 +13,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# notebook
+.ipynb_checkpoints/
 # Mono auto generated files
 mono_crash.*
 
